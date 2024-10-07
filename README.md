@@ -7,13 +7,13 @@ Aplikasi ini adalah sistem database untuk mengelola data mahasiswa menggunakan M
 1. **Clone repositori ini** ke folder lokal:
    ```bash
    git clone https://github.com/Fiqri317/Aplikasi-Database-Mahasiswa.git
-**Perhatikan:** Database `Mahasiswa.mdb` berada di folder `Aplikasi Database Mahasiswa\database`. Pastikan aplikasi mencari file ini secara relatif ke folder tersebut.
+2. **Perhatikan:** Database `Mahasiswa.mdb` berada di folder `Aplikasi Database Mahasiswa\database`. Pastikan aplikasi mencari file ini secara relatif ke folder tersebut.
+3. **Langkah Menjalankan**
+   - Buka project di Visual Studio.
+   - Aplikasi akan otomatis mendeteksi database menggunakan path relatif (`.\database\Mahasiswa.mdb`).
+   - Jalankan aplikasi dan gunakan fitur CRUD untuk mengelola data mahasiswa.
 
-## Langkah Menjalankan
 
-1. Buka project di Visual Studio.
-2. Aplikasi akan otomatis mendeteksi database menggunakan path relatif (`.\database\Mahasiswa.mdb`).
-3. Jalankan aplikasi dan gunakan fitur CRUD untuk mengelola data mahasiswa.
-
+1. 
 
 ### Prerequisites
