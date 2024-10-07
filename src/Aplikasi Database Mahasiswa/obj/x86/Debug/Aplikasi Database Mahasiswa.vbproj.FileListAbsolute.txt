@@ -1,0 +1,9 @@
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\bin\Debug\Aplikasi Database Mahasiswa.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\bin\Debug\Aplikasi Database Mahasiswa.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\bin\Debug\Aplikasi Database Mahasiswa.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\obj\x86\Debug\Aplikasi_Database_Mahasiswa.Form1.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\obj\x86\Debug\Aplikasi_Database_Mahasiswa.Resources.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\obj\x86\Debug\Aplikasi Database Mahasiswa.vbproj.GenerateResource.Cache
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\obj\x86\Debug\Aplikasi Database Mahasiswa.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\obj\x86\Debug\Aplikasi Database Mahasiswa.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Database Mahasiswa\src\Aplikasi Database Mahasiswa\obj\x86\Debug\Aplikasi Database Mahasiswa.pdb
