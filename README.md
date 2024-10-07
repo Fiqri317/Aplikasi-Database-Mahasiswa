@@ -12,8 +12,8 @@ Aplikasi ini adalah sistem database untuk mengelola data mahasiswa menggunakan M
    - Buka project di Visual Studio.
    - Aplikasi akan otomatis mendeteksi database menggunakan path relatif (`.\database\Mahasiswa.mdb`).
    - Jalankan aplikasi dan gunakan fitur CRUD untuk mengelola data mahasiswa.
-
-
-1. 
+4. **Jalankan aplikasi** dan gunakan fitur CRUD untuk mengelola data mahasiswa.
 
 ### Prerequisites
+- Visual Studio
+- Microsoft Access
